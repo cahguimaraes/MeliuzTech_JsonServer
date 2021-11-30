@@ -1,0 +1,23 @@
+{
+  "products": [
+    {
+      "name": "Iphone",
+      "price": "3000",
+      "category": "phone",
+      "id": 1
+    },
+    {
+      "name": "Iphone",
+      "price": "3000",
+      "categories": "phone",
+      "id": 2
+    }
+  ],
+  "categories": [],
+  "person":[
+        {"name": "Carolayne"},
+        {"name": "Lola"},
+        {"name":"Aurora"},
+        {"name":"Amy"}       
+    ]     
+}
